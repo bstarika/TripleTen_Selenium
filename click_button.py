@@ -5,7 +5,7 @@ from selenium import webdriver
 
 driver = webdriver.Chrome()
 
-driver.get("https://cnt-10a6fb36-917c-41a3-843b-376e78c58e3d.containerhub.tripleten-services.com")
+driver.get("https://cnt-d0cdd3d5-5100-4ec9-b6be-9044762008a8.containerhub.tripleten-services.com")
 
 # make the app wait 2 seconds to give time for the page to load
 time.sleep(2)

@@ -4,7 +4,7 @@ import time
 
 driver = webdriver.Chrome()
 # Replace our link with your own server link here
-driver.get("https://cnt-a946de49-7a04-4edd-a3d6-9d49e3977dcb.containerhub.tripleten-services.com")
+driver.get("https://cnt-d0cdd3d5-5100-4ec9-b6be-9044762008a8.containerhub.tripleten-services.com")
 
 time.sleep(2)
 
